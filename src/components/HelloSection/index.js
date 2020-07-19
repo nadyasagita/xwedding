@@ -13,7 +13,7 @@ function HelloSection({ invitedPeople }) {
         <div className="container">
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <h2 className="main-font">Assalamualaikum Warahmatullahi Wabarakaatuh</h2>
+              <h2 className="main-font">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
               <h3 className="sub-title hs">26 Juli 2020, Di Rumah Kami, Kopang, Lombok Tengah</h3>
               <p className="info">
                 Dengan memohon Rahmat Allah Azza Wa Jalla, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk
@@ -47,7 +47,7 @@ function HelloSection({ invitedPeople }) {
               <div className="desc-bride">
                 <h3 className="main-font">Ulfana Nurmala Sari Devi</h3>
                 <p className="parent-name">
-                  Putri Bapak Rabi'ul <br />& Ibu Hj. Fatmawati
+                  Putri Bapak H. Rabi'ul <br />& Ibu Hj. Juniarti
                 </p>
               </div>
             </div>
