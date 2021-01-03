@@ -2,13 +2,13 @@
  * Link
  */
 export const GOOGLE_CALENDAR_LINK = `https://calendar.google.com/calendar/event?action=TEMPLATE&dates=20201003T040000Z%2F20201003T060000Z&text=Dinda+%26+Indra+Wedding&details=Dinda+%26+Indra+Wedding`;
-export const GOOGLE_MAPS_LINK = `https://goo.gl/maps/UULB9ZuZDinvqjAL8`;
+export const GOOGLE_MAPS_LINK = `https://goo.gl/maps/2PJeLgxSHUFSsHac6`;
 
 /**
  * Wedding time
  */
-export const EPOCH_WEDDING_TIME = 1595754000;
-export const UTC_WEDDING_TIME = '2020-07-26:09:00:00Z';
+export const EPOCH_WEDDING_TIME = 1610845200;
+export const UTC_WEDDING_TIME = '2021-01-17:09:00:00Z';
 
 export const INVITATIONS = [
  { id: '72fbe93a-b352-11e8-96f8-529269fb1459', name: 'ITEC Group' },

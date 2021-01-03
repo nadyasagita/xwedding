@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
-
-import WeddingInfoBox from './WeddingInfoBox';
 import { styWrapper } from './styles';
+import WeddingInfoBox from './WeddingInfoBox';
+
 
 function WeddingSection() {
   return (
@@ -21,16 +21,16 @@ function WeddingSection() {
               <WeddingInfoBox
                 title="Akad Nikah"
                 time="09:00 AM WITA"
-                date="Ahad, 26 Juli 2020"
-                description="Lokasi: Jurit, Desa Bebuak, Kecamatan Kopang, Lombok Tengah"
-                mobileDescription="Jurit, Desa Bebuak <br />Kecamatan Kopang, Lombok Tengah"
+                date="Ahad, 17 Januari 2021"
+                description="Lokasi: Desa Mamben Daya, Kecamatan Wanasaba, Lombok Timur,"
+                mobileDescription="Desa Mamben Daya <br />Kecamatan Wanasaba, Lombok Timur"
               />
               <WeddingInfoBox
                 title="Walimah"
-                time="10:00 - 12:00 WITA"
-                date="Ahad, 26 Juli 2020"
-                description="Lokasi: Jurit, Desa Bebuak, Kecamatan Kopang, Lombok Tengah"
-                mobileDescription="Jurit, Desa Bebuak <br />Kecamatan Kopang, Lombok Tengah"
+                time="11:00 WITA - Selesai"
+                date="Ahad, 17 Januari 2021"
+                description="Lokasi: Desa Mamben Daya, Kecamatan Wanasaba, Lombok Timur,"
+                mobileDescription="Desa Mamben Daya <br />Kecamatan Wanasaba, Lombok Timur"
               />
             </div>
           </div>

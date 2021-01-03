@@ -1,5 +1,5 @@
-import React, { Fragment } from 'react';
 import { GOOGLE_MAPS_LINK } from '@/constants';
+import React, { Fragment } from 'react';
 import { styWrapper } from './styles';
 
 function LocationSection() {
@@ -23,14 +23,14 @@ function LocationSection() {
                   <strong>Buka Google Maps</strong>
                 </a>
                 <br />
-                Jl Kopang Wajagesang, RT 1 RW 1, Jurit, Bebuak, Kopang, Lombok Tengah
+                Ponpes AL-Aqsho, Mamben Daya, Wanasaba, Kabupaten Lombok Timur, Nusa Tenggara Bar. 83653
               </p>
             </div>
           </div>
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.864395613611!2d116.36342371499468!3d-8.609015589830657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcdb4535d9f814f%3A0x3b7cd5a0e2879457!2sJPE%20Jurita%20PD%20Elektronik!5e0!3m2!1sen!2sid!4v1595090847165!5m2!1sen!2sid"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1972.631240239784!2d116.56200451364394!3d-8.570741142351658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcc49b5d2ff8b81%3A0x90046de4b7253d24!2sPONPES%20AL%20AQSHO!5e0!3m2!1sid!2sid!4v1609670527464!5m2!1sid!2sid"
                 width="100%"
                 height="450"
                 frameBorder="0"
@@ -38,7 +38,7 @@ function LocationSection() {
                 allowFullScreen
                 aria-hidden="false"
                 tabIndex="0"
-                title="Google Maps - Eby & Ulfana Wedding Party"
+                title="Google Maps - Zahid & Nadya Wedding Party"
               ></iframe>
             </div>
           </div>

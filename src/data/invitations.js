@@ -1,99 +1,99 @@
 export default [
     {
         id: "72fc99e8-b352-11e8-96f8-529269fb1459",
-        name: "Brother And Sister Fillah"
+        name: "Ridatul Aulia"
     },
     {
         id: "72fbe93a-b352-11e8-96f8-529269fb1459",
-        name: "ITEC Group"
+        name: "Dr. Akhada Maulana Sp.U Dan Ummi Rini Jati Ayu Kurniati "
     },
     {
         id: "72fc6f7c-b352-11e8-96f8-529269fb1459",
-        name: "Tim Juara"
+        name: "M. Amrillah"
     },
     {
         id: "72fc71c0-b352-11e8-96f8-529269fb1459",
-        name: "Tim Lumbung Inovasi"
+        name: "Juani pratama dan Istri"
     },
     {
         id: "72fc7404-b352-11e8-96f8-529269fb1459",
-        name: "Tim LobarApps"
+        name: "Bunda Dahlia"
     },
     {
         id: "72fc765c-b352-11e8-96f8-529269fb1459",
-        name: "Tim Kholas Ceria"
+        name: "Bunda Rinti"
     },
     {
         id: "72fc7896-b352-11e8-96f8-529269fb1459",
-        name: "Bang Firman"
+        name: "Bunda Siti"
     },
     {
         id: "72fc7ae4-b352-11e8-96f8-529269fb1459",
-        name: "Akh Robi Huzwandar"
+        name: "Chaca, Dilla, Diyah"
     },
     {
         id: "72fc8048-b352-11e8-96f8-529269fb1459",
-        name: "Orang Yang Diundang"
+        name: "Dian"
     },
     {
         id: "72fc82b4-b352-11e8-96f8-529269fb1459",
-        name: "Bang Tatang"
+        name: "Dibah Dan Metyu"
     },
     {
         id: "72fc8502-b352-11e8-96f8-529269fb1459",
-        name: "Novia Fuji Ayu Trisnawati"
+        name: "Dr. Ima"
     },
     {
         id: "72fc873c-b352-11e8-96f8-529269fb1459",
-        name: "M. Rozali"
+        name: "Dr. Maythia Prawisitha"
     },
     {
         id: "72fc8976-b352-11e8-96f8-529269fb1459",
-        name: "Alumni Kesehatan Hewan 2017"
+        name: "Drg. Rina Yulia Wulandari"
     },
     {
         id: "72fc8bba-b352-11e8-96f8-529269fb1459",
-        name: "Alumni SDN Lendang Ara 2008"
+        name: "Firza Dan Suami"
     },
     {
         id: "72fc92f4-b352-11e8-96f8-529269fb1459",
-        name: "Tim Admin"
+        name: "Gilang"
     },
     {
         id: "72fc957e-b352-11e8-96f8-529269fb1459",
-        name: "Sahabat Kecil"
+        name: "Hj. Farid Dan istri"
     },
     {
         id: "72fc97b8-b352-11e8-96f8-529269fb1459",
-        name: "Sister Fillah"
+        name: "Mba Ambar Dan Suami"
     },
     {
         id: "72fc9c18-b352-11e8-96f8-529269fb1459",
-        name: "Dayat & Ela"
+        name: "Mba Ika"
     },
     {
         id: "72fc9e2a-b352-11e8-96f8-529269fb1459",
-        name: "Fawaz & Ana"
+        name: "Mba Nink"
     },
     {
         id: "72fca320-b352-11e8-96f8-529269fb1459",
-        name: "Bang Arief & Istri"
+        name: "Ikhwahfillah MU Lombok"
     },
     {
         id: "72fca58c-b352-11e8-96f8-529269fb1459",
-        name: "Damu Archery"
+        name: "Jihan, Ayuk, Nanda"
     },
     {
         id: "72fca7da-b352-11e8-96f8-529269fb1459",
-        name: "Bang Kahfi"
+        name: "Ukhtyfillah Tahajjud Call Community"
     },
     {
         id: "72fcaa14-b352-11e8-96f8-529269fb1459",
-        name: "Kelompok Bujang Sholeh"
+        name: "Ukhtyfillah Tahajjud Call NTB"
     },
     {
         id: "72fcac4e-b352-11e8-96f8-529269fb1459",
-        name: "Akh Endra"
+        name: ""
     },
     {
         id: "72fcae7e-b352-11e8-96f8-529269fb1459",

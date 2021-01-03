@@ -1,10 +1,9 @@
+import ZahidNadya from '@assets/images/zahid-nadya-transparent.png';
+import { object } from 'prop-types';
 import React, { Fragment } from 'react';
-import { string, object } from 'prop-types';
-
-import Bride from '@assets/images/cewek-removebg-preview.png';
-import Groom from '@assets/images/cowok-removebg-preview.png';
-
 import { styWrapper } from './styles';
+
+
 
 function HelloSection({ invitedPeople }) {
   return (
@@ -14,7 +13,7 @@ function HelloSection({ invitedPeople }) {
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
               <h2 className="main-font">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
-              <h3 className="sub-title hs">26 Juli 2020, Di Rumah Kami, Kopang, Lombok Tengah</h3>
+              <h3 className="sub-title hs">17 Januari 2021, Di Rumah Kami, Desa Mamben Daya, Lombok Timur</h3>
               <p className="info">
                 Dengan memohon Rahmat Allah Azza Wa Jalla, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk
                 rumah tangga yang Sakinah, Mawaddah wa Rahmah, kami mohon do'a agar senantiasa diberikan keberkahan dan
@@ -22,33 +21,30 @@ function HelloSection({ invitedPeople }) {
               </p>
             </div>
           </div>
-          <div className="couple-wrap">
-            <div className="couple-half">
-              <div className="groom">
-                <img src={Groom} alt="groom" className="img-responsive" loading="lazy" style={{ filter: "drop-shadow(0 6px 6px rgba(0, 0, 0, 0.5))" }} />
-              </div>
-              <div className="desc-groom">
-                <h3 className="main-font">Eby Sofyan Fadly</h3>
-                <p className="parent-name parent-name__top">
-                  Putra Bapak Fadli Hendry <br />& Ibu Maemanah
+          <div className="couple-wrap row">
+            <div className="col-lg-5 col-md-5">
+              <div className="couple-half">
+                <div className="desc-groom">
+                  <h3 className="main-font">Zahid Al Ansori</h3>
+                  <p className="parent-name parent-name__top">
+                    Putra Bapak Ahya Ulumuddin <br />& Ibu Fadlillah
                 </p>
+                </div>
               </div>
             </div>
-            <p className="heart text-center">
-              <i className="icon-heart2"></i>
-            </p>
-            <div className="and-love" style={{ color: "#5dbae8" }}>
-              <i>&</i>
-            </div>
-            <div className="couple-half">
-              <div className="bride">
-                <img src={Bride} alt="groom" className="img-responsive" loading="lazy" style={{ filter: "drop-shadow(0 6px 6px rgba(0, 0, 0, 0.5))" }} />
+            <div className="col-lg-2 col-md-2">
+              <div className="couple-half">
+                <img src={ZahidNadya} alt="groom" className="img-responsive" loading="lazy" style={{ filter: "drop-shadow(0 6px 6px rgba(0, 0, 0, 0.5))" }} />
               </div>
-              <div className="desc-bride">
-                <h3 className="main-font">Ulfana Nurmala Sari Devi</h3>
-                <p className="parent-name">
-                  Putri Bapak H. Rabi'ul <br />& Ibu Hj. Juniarti
+            </div>
+            <div className="col-lg-5 col-md-5">
+              <div className="couple-half">
+                <div className="desc-bride">
+                  <h3 className="main-font">Nadya Sagita Ramadani</h3>
+                  <p className="parent-name">
+                    Putri Bapak Rahadian Hasnadi <br />& Ibu Tri Niken Siswandari
                 </p>
+                </div>
               </div>
             </div>
           </div>

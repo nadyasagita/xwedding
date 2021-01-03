@@ -1,11 +1,11 @@
-import React, { Fragment, useState } from 'react';
-import { object, string, bool, func } from 'prop-types';
-
 import WeddingImg from '@assets/images/wedding-logo.png';
-
+import { bool, func, object } from 'prop-types';
+import React, { Fragment, useState } from 'react';
 import CountContainer from './CountContainer';
 import ScrollToDown from './ScrollToDown';
-import { styWrapper, styHero, styBackground } from './styles';
+import { styBackground, styHero, styWrapper } from './styles';
+
+
 
 const DELAY_TIME = 1500;
 
@@ -62,7 +62,7 @@ function WelcomeSection({ location, invitedPeople, isAnonymGuest, onClickDetail 
             <div className="col-md-8 col-md-offset-2 text-center">
               <img src={WeddingImg} alt="wedding-eby-ulfana" />
               <h4 className="sub-title">The Wedding of</h4>
-              <h1 className="title">Eby &amp; Ulfana</h1>
+              <h1 className="title">Zahid &amp; Nadya</h1>
               <CountContainer />
               {renderGuestSection()}
             </div>

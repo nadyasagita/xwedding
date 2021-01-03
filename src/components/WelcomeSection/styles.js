@@ -109,7 +109,7 @@ export const styScrollWrapper = css`
 export const styBackground = css`
   ${'' /* background-size: 350px; */}
   ${'' /* background-image: url(${Background}); */}
-  background-color: #5DBAE8;
+  background-color: #a76a27;
   background-position: center top;
   width: 100%;
   height: 100%;
@@ -215,12 +215,12 @@ export const styWrapperCount = css`
   border-radius: 50%;
   position: relative;
   animation: pulse 1s ease infinite;
-  color: #fff;
-  background-color: #5DBAE8;
+  color: #a76a27;
+  background-color: #fff;
 
   h3 {
     font-size: 30px;
-    color: #fff;
+    color: #a76a27;
     margin: 20px 0 0 0;
   }
 

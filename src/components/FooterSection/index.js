@@ -1,5 +1,5 @@
-import React from 'react';
 import { bool } from 'prop-types';
+import React from 'react';
 
 function FooterSection({ isAnonymGuest }) {
   return (
@@ -8,7 +8,7 @@ function FooterSection({ isAnonymGuest }) {
         <div className="row copyright">
           <div className="col-md-12 text-center">
             <p>
-              <small className="block">&copy; 2020 Eby & ulfana Wedding. All Rights Reserved.</small>
+              <small className="block">&copy; 2021 Zahid & Nadya Wedding. All Rights Reserved.</small>
               <small className="block">
                 Original Template from{' '}
                 <a href="http://freehtml5.co/" target="_blank" rel="noreferrer">
